@@ -80,24 +80,9 @@ Perimetro del circulo: 25.13
 
 - [PHP 8.0 o superior](https://www.php.net/downloads) (se usan propiedades tipadas)
 
-## Cómo ejecutar
 
-Desde la terminal, dentro de la carpeta del proyecto:
-
-```bash
-php Estudiantes.php
-php problema1.php
-php problema2.php
-php problema4.php
-```
-
-Otra opción es usar el servidor integrado de PHP y abrir los archivos en el navegador:
-
-```bash
-php -S localhost:8000
-```
 
 Luego visita `http://localhost:8000/Estudiantes.php`, por ejemplo.
 
-> **Nota:** `problema3.php` está hecho para producir un error fatal; es parte del ejercicio.
+> **Nota:** `problema3.php` está hecho para producir un error; es parte del ejercicio.
 
